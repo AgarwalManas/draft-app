@@ -7,5 +7,6 @@ Following are the screenshots -
 
 
 
-The following app was created by through - www.appypie.com
-and was tested on - https://testobject.com and https://console.monkop.com
+The following app was created by through - www.appypie.com.
+
+It was tested on - https://testobject.com and https://console.monkop.com. 
